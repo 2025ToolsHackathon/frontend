@@ -1,0 +1,5 @@
+enum AlarmFlowOption {
+  wakeUpTime,
+  sleepTime,
+}
+
